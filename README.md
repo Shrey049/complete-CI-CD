@@ -1,20 +1,3 @@
-Here’s a fresh, polished version of your README with a **CI/CD Pipeline** focus and some structural improvements! 🚀
-
----
-
-# 🎲 BoardgameListingWebApp – CI/CD Pipeline
-
-## 📚 Description
-
-**Board Game Database Full-Stack Web Application with CI/CD Pipeline Integration.**
-
-This web application displays a list of board games and their reviews. While anyone can view the board game lists and reviews, authenticated users can add/edit board games and their reviews. The system uses different roles to manage access:
-- **Users:** Can add board games and write reviews.
-- **Managers:** Have all user permissions along with the ability to edit or delete reviews.
-
-The application is deployed on **AWS EC2** and uses a robust **CI/CD pipeline** to automate code integration, testing, and deployment, ensuring reliability and speed during each deployment.
-
----
 
 ## 🚀 CI/CD Pipeline Workflow
 
@@ -211,21 +194,3 @@ sudo systemctl restart boardgame-app
 
 ---
 
-## 🔍 Future Enhancements
-- 🔄 Add Docker support to containerize the application
-- 📡 Implement API Gateway and Load Balancer for scaling
-- 🛑 Add Slack notifications on build/deployment failure
-
----
-
-## 🤝 Contributing
-Feel free to contribute! Open an issue or submit a pull request with your changes. Let's build something amazing! 🎯
-
----
-
-## 📧 Contact
-For questions, feel free to reach out via [email](mailto:your-email@example.com) or open an issue in the GitHub repository.
-
----
-
-🎉 Enjoy your fully automated CI/CD pipeline with BoardgameListingWebApp! Let me know if you encounter any issues or need further assistance. 🚀😊
